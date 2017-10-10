@@ -5,4 +5,4 @@
 3. 크롬 설치 및 동기화
 4. iterm2 설치 - [iTerm2 Preference][]
 
-[iTerm2 Preference]: 
+[iTerm2 Preference]: https://raw.githubusercontent.com/earlbread/my-settings/master/com.googlecode.iterm2.plist
