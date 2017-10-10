@@ -31,11 +31,11 @@
 
  - Git user 설정
 
-```bash
-git config --global user.name "Seunghun Lee"
-git config --global user.email waydi1@gmail.com
-git config --global core.editor nvim
-```
+ ```bash
+ git config --global user.name "Seunghun Lee"
+ git config --global user.email waydi1@gmail.com
+ git config --global core.editor nvim
+ ```
 
  - PyCharm Professional 설치
  - Postman 설치
